@@ -488,4 +488,31 @@ Shift x10，Ctrl x0.1</value>
   <data name="FillerStyle_SolidShort" xml:space="preserve">
     <value>实线</value>
   </data>
+  
+  
+  <data name="Mod_WhatsNewVersion" xml:space="preserve">
+    <value>版本{0}</value>
+  </data>
+  <data name="Settings_Notifications" xml:space="preserve">
+    <value>通知消息</value>
+  </data>
+  <data name="Settings_ShowOnlyMajor" xml:space="preserve">
+    <value>只推送重要更新提示消息</value>
+  </data>
+  <data name="Settings_AddNewFiller" xml:space="preserve">
+    <value>创建新填充图案</value>
+  </data>
+  
+  <data name="LineStyle_StopDouble" xml:space="preserve">
+    <value>双停止线</value>
+  </data>
+  <data name="LineStyle_StopDoubleDashed" xml:space="preserve">
+    <value>双虚停止线</value>
+  </data>
+  <data name="LineStyle_StopDoubleShort" xml:space="preserve">
+    <value>双停止线</value>
+  </data>
+  <data name="LineStyle_StopDoubleDashedShort" xml:space="preserve">
+    <value>双虚停止线</value>
+  </data>
 </root>
